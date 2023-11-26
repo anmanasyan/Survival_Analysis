@@ -28,5 +28,5 @@ This project aims to analyze customer churn in a telecom company using parametri
    - Defines a class for an Exponential AFT Fitter.
 2. **utils.py**
    - Defines the functions (dummify_dataframe and calculate_clv) used in the project.
-3. **Survival_Analysis.ipynb**
+3. **Survival_Analysis_AFT.ipynb**
     - A report summarizing findings, interpretations, and recommendations.
