@@ -6,3 +6,4 @@ __pycache__/
 *.pyd
 *.pyz
 *.pyw
+*.ipynb_checkpoints
